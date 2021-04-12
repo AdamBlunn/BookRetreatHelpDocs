@@ -67,7 +67,7 @@ To use this function, do the following:
 Permenantly Delete a book from the database. Only to be done if absolutely neccesary. Please note that the book's page will still need to be manually wiped.
 
 To use this function, do the following:
-1.Enter the Book's ISBN
+1. Enter the Book's ISBN
 2. press the "Search" button
 3. Confirm the deletion on the prompt that appears.
 
